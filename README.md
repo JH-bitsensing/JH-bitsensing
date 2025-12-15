@@ -2,7 +2,6 @@
 
 Are you interested in me ?   
    
-##
 - 👋 Hi, I’m @JH-bitsensing now working here 
 - 👀 I’m interested in the latest tech or relationships with whom like a new things 
 - 💞️ I’m looking to collaborate with anyone or on something releated to RADAR/RF Communication(WIFI/BLE)/Embedded System(SW/HW) 
